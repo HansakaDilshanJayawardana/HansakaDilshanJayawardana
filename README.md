@@ -31,11 +31,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasithWimukthi&theme=radical&layout=compact&exclude_repo=RASA-vehicle-service-management-system,ROYALRO-Cake-Shop,Farm-Management-Pro,Health-Care,GEL-Free-Resource-Site,laravel-Admin,hr-system-api)](https://github.com/yasithWimukthi/github-readme-stats)                        -->
-![Yasith's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansakaDilshanJayawardana&show_icons=true&theme=radical&custom_title=Hansaka's%20github%20activity%20graph)
+![Hansaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansakaDilshanJayawardana&show_icons=true&theme=radical&custom_title=Hansaka's%20github%20activity%20graph)
 
 ---
 
-[![Yasith's github activity graph](https://activity-graph.herokuapp.com/graph?username=HansakaDilshanJayawardana&theme=react-dark&custom_title=Yasith's%20Github%20Stats)](https://github.com/HansakaDilshanJayawardana/github-readme-activity-graph)
+[![Hansaka's github activity graph](https://activity-graph.herokuapp.com/graph?username=HansakaDilshanJayawardana&theme=react-dark&custom_title=Hansaka's%20Github%20Stats)](https://github.com/HansakaDilshanJayawardana/github-readme-activity-graph)
 
 ---
 
