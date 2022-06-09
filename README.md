@@ -24,11 +24,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HansakaDilshanJayawardana&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HansakaDilshanJayawardana&theme=radical&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaDilshanJayawardana&layout=compact&theme=vision-friendly-dark)](https://github.com/HansakaDilshanJayawardana/github-readme-langs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaDilshanJayawardana&layout=compact&theme=radical)](https://github.com/HansakaDilshanJayawardana/github-readme-langs)
 
-[![Hansaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansakaDilshanJayawardana&show_icons=true&layout=compact&theme=vision-friendly-dark&custom_title=Hansaka's%20Github%20Activity%20Graph)](https://github.com/HansakaDilshanJayawardana/github-readme-stats)
+[![Hansaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansakaDilshanJayawardana&show_icons=true&theme=radical&custom_title=Hansaka's%20Github%20Activity%20Graph)](https://github.com/HansakaDilshanJayawardana/github-readme-stats)
 
 [![Hansaka's github activity graph](https://activity-graph.herokuapp.com/graph?username=HansakaDilshanJayawardana&theme=react-dark&custom_title=Hansaka's%20Github%20Stats)](https://github.com/HansakaDilshanJayawardana/github-readme-activity-graph)
 
