@@ -26,10 +26,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HansakaDilshanJayawardana&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaDilshanJayawardana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaDilshanJayawardana&layout=compact&theme=vision-friendly-dark)](https://github.com/HansakaDilshanJayawardana/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasithWimukthi&theme=radical&layout=compact&exclude_repo=RASA-vehicle-service-management-system,ROYALRO-Cake-Shop,Farm-Management-Pro,Health-Care,GEL-Free-Resource-Site,laravel-Admin,hr-system-api)](https://github.com/yasithWimukthi/github-readme-stats)                        -->
-![Hansaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansakaDilshanJayawardana&show_icons=true&layout=compact&theme=vision-friendly-dark&custom_title=Hansaka's%20github%20activity%20graph)
+![Hansaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansakaDilshanJayawardana&show_icons=true&layout=compact&theme=vision-friendly-dark&custom_title=Hansaka's%20Github%20Activity%20Graph)
 
 [![Hansaka's github activity graph](https://activity-graph.herokuapp.com/graph?username=HansakaDilshanJayawardana&theme=react-dark&custom_title=Hansaka's%20Github%20Stats)](https://github.com/HansakaDilshanJayawardana/github-readme-activity-graph)
 
